@@ -12,6 +12,10 @@ h2{
     margin-bottom: 2%;
 }
 
+h2, section h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 section{
     position: relative;
     margin: 1% 0.33% 1% 0;
